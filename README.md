@@ -10,11 +10,33 @@
 
 AI-powered movie recommendation system using content-based filtering
 
-[Live Demo](https://your-app.onrender.com)
+[Live Demo](https://cinematch-ilc7.onrender.com/)
 
 </div>
 
 ---
+
+## 📸 Screenshots
+
+### Home Page
+![Home Page](screenshots/home.png)
+
+### Movie Search & Recommendations
+![Recommendations](screenshots/recommendations.png)
+
+### Movie Details
+![Movie Details](screenshots/movie-details.png)
+
+### Favorites Page
+![Favorites](screenshots/favorites.png)
+
+### Mobile Responsive
+<p align="center">
+  <img src="screenshots/mobile-view.png" alt="Mobile View" width="300"/>
+</p>
+
+---
+
 
 ## 🚀 Setup Instructions
 
