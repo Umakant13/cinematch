@@ -61,12 +61,11 @@ python manage.py runserver
 #### Open browser: http://127.0.0.1:8000
 
 ## Features
-🔍 Smart movie search with AI recommendations
-💾 Save favorites to personal collection
-📊 Sort by rating, title, year, or similarity
-🎨 Grid and list view modes
-📱 Fully responsive design
-🌙 Dark theme interface
+- 🔍 Smart movie search with AI recommendations
+- 💾 Save favorites to personal collection
+- 📊 Sort by rating, title, year, or similarity
+- 🎨 Grid and list view modes
+- 📱 Fully responsive design
 
 
 ## 🛠️ Technologies Used
