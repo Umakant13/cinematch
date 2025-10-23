@@ -19,7 +19,7 @@ AI-powered movie recommendation system using content-based filtering
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](https://drive.google.com/uc?export=view&id=1PEKXU1n6-udz_AtNpRwzAJu1KYcq47QY)
+![Home Page](https://github.com/Umakant13/cinematch/blob/master/assets/images/movies%20section.png)
 ! [](https://drive.google.com/file/d/12TXp7KdSKF2RvFcMsgN5JLpowzT09FUk/view?usp=drive_link)
 ![](https://drive.google.com/file/d/1sBSSMS8aH26PbjwYeH5Jyd0gg0IakweO/view?usp=drive_link)
 
