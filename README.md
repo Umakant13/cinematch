@@ -19,21 +19,26 @@ AI-powered movie recommendation system using content-based filtering
 ## 📸 Screenshots
 
 ### Home Page
-![Home Page](screenshots/home.png)
+![Home Page](https://drive.google.com/file/d/1PEKXU1n6-udz_AtNpRwzAJu1KYcq47QY/view?usp=drive_link)
+! [](https://drive.google.com/file/d/12TXp7KdSKF2RvFcMsgN5JLpowzT09FUk/view?usp=drive_link)
+![](https://drive.google.com/file/d/1sBSSMS8aH26PbjwYeH5Jyd0gg0IakweO/view?usp=drive_link)
 
 ### Movie Search & Recommendations
-![Recommendations](screenshots/recommendations.png)
+![Movie Search](https://drive.google.com/file/d/1UdJvb8XgWXP22iE5BQl6gqOwmI-0Q2Id/view?usp=drive_link)
+![Recommendations](https://drive.google.com/file/d/1dMcvwxLdvcfHC2loobAhVL4bMPYyBvdD/view?usp=drive_link)
 
 ### Movie Details
-![Movie Details](screenshots/movie-details.png)
+![Movie Details](https://drive.google.com/file/d/1YaTDoYZVD9NrZp2tVQCv5Xz5mdByx9xp/view?usp=drive_link)
+
+### Add a movie to Favorites
+
+![Add a movie to Favorites](https://drive.google.com/file/d/1ltEVzilKz7PdTVuNVYHceX37cGGhrthd/view?usp=drive_link)
 
 ### Favorites Page
-![Favorites](screenshots/favorites.png)
 
-### Mobile Responsive
-<p align="center">
-  <img src="screenshots/mobile-view.png" alt="Mobile View" width="300"/>
-</p>
+![Stats](https://drive.google.com/file/d/1QRLfKd0r-NVCmMW3Xtz0ppk7Dsx8-8ry/view?usp=drive_link)
+![Favorites](https://drive.google.com/file/d/1T-chwHIA-R3l3llVL7qgwAL1OL8pVRNE/view?usp=drive_link)
+
 
 ---
 
