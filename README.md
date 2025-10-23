@@ -19,25 +19,25 @@ AI-powered movie recommendation system using content-based filtering
 ## 📸 Screenshots
 
 ### Home Page
-[Home Page](https://drive.google.com/uc?export=view&id=1PEKXU1n6-udz_AtNpRwzAJu1KYcq47QY)
-[](https://github.com/Umakant13/cinematch/blob/master/assets/images/movie_by_genere.png)
-[](https://github.com/Umakant13/cinematch/blob/master/assets/images/our_features.png)
+![Home Page](https://github.com/Umakant13/cinematch/blob/master/assets/images/movies%20section.png)
+![](https://github.com/Umakant13/cinematch/blob/master/assets/images/movie_by_genere.png)
+![](https://github.com/Umakant13/cinematch/blob/master/assets/images/our_features.png)
 
 ### Movie Search & Recommendations
-[Movie Search](https://github.com/Umakant13/cinematch/blob/master/assets/images/searching%20a%20movie.png)
-[Recommendations](https://github.com/Umakant13/cinematch/blob/master/assets/images/getting%20recommendations.png)
+![Movie Search](https://github.com/Umakant13/cinematch/blob/master/assets/images/searching%20a%20movie.png)
+![Recommendations](https://github.com/Umakant13/cinematch/blob/master/assets/images/getting%20recommendations.png)
 
 ### Movie Details
-[Movie Details](https://github.com/Umakant13/cinematch/blob/master/assets/images/movie%20details.png)
+![Movie Details](https://github.com/Umakant13/cinematch/blob/master/assets/images/movie%20details.png)
 
 ### Add a movie to Favorites
 
-[Add a movie to Favorites](https://github.com/Umakant13/cinematch/blob/master/assets/images/adding%20movie%20to%20fav.png)
+![Add a movie to Favorites](https://github.com/Umakant13/cinematch/blob/master/assets/images/adding%20movie%20to%20fav.png)
 
 ### Favorites Page
 
-[Stats](https://github.com/Umakant13/cinematch/blob/master/assets/images/fav%20page.png)
-[Favorites](https://github.com/Umakant13/cinematch/blob/master/assets/images/saving%20fav%20movies.png)
+![Stats](https://github.com/Umakant13/cinematch/blob/master/assets/images/fav%20page.png)
+![Favorites](https://github.com/Umakant13/cinematch/blob/master/assets/images/saving%20fav%20movies.png)
 
 
 ---
