@@ -14,7 +14,7 @@ AI-powered movie recommendation system using content-based filtering
 
 </div>
 
----
+--- 
 
 ## 📸 Screenshots
 
